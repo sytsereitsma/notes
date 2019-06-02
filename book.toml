@@ -3,3 +3,6 @@ authors = ["Sytse Reitsma"]
 multilingual = false
 src = "src"
 title = "Notes"
+
+[build]
+create-missing = false
