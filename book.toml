@@ -1,0 +1,5 @@
+[book]
+authors = ["Sytse Reitsma"]
+multilingual = false
+src = "src"
+title = "Notes"

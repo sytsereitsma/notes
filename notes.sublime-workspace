@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ze",
+				"zero_point\tstatement"
+			],
+			[
+				"thirdPar",
+				"thirdpartyLibsPath"
+			],
+			[
+				"get",
+				"get_tester_and_working_dir\tfunction"
+			],
+			[
+				"Mo",
+				"MoogBuildCommand\tclass"
+			],
+			[
+				"pa",
+				"panel_writer\tstatement"
+			],
+			[
+				"mo",
+				"mock_glob\tparam"
+			],
+			[
+				"Ma",
+				"MagicMock\tclass"
+			],
+			[
+				"mPix",
+				"mPixels"
+			],
+			[
+				"mij",
+				"mijn_classified"
+			],
+			[
+				"com",
+				"companies"
+			],
+			[
+				"__i",
+				"__is_any"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"is",
+				"__is_climbing"
+			],
+			[
+				"gr",
+				"group_sum"
+			],
+			[
+				"c",
+				"companies"
+			],
+			[
+				"mP",
+				"mParasitePowered"
+			],
+			[
+				"ioW",
+				"ioWiFly"
+			],
+			[
+				"Co",
+				"CommandModeContext"
+			],
+			[
+				"Comm",
+				"CommandMode"
+			],
+			[
+				"in",
+				"inTries"
+			],
+			[
+				"m",
+				"millis"
+			],
+			[
+				"Fa",
+				"fakeit"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"deb",
+				"debugON"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"new",
+				"Moog: New class"
+			],
+			[
+				"uni",
+				"UnitTesting: Test Current Package"
+			],
+			[
+				"unit",
+				"UnitTesting: Test Current Package"
+			],
+			[
+				"Unit",
+				"UnitTesting: Test Current Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 321.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/notes"
+	],
+	"file_history":
+	[
+		"/C/Projects/mdBook/README.md",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/doc/developer_guide/book.toml",
+		"/C/Projects/mdBook/src/config.rs",
+		"/C/Projects/mdBook/src/renderer/html_handlebars/hbs_renderer.rs",
+		"/C/Projects/mdBook/book-example/src/format/config.md",
+		"/C/Projects/mdBook/Cargo.toml",
+		"/C/Projects/mdBook-staging/Cargo.toml",
+		"/C/Projects/mdBook/src/cmd/watch.rs",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/doc/uml/dataprocessing.puml",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/doc/uml/dataprocessing.png",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/ScanBeamFileLoader.h",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/ScanBeamFileLoader.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/RawDataCorrelatorTester.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/ScanBinFileProcessor.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/ScanFileLoaderBase.h",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/BinFile.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/TravelTimeDetector.h",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/src/TravelTimeDetector.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/doc/developer_guide/src/uml/project.png",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/doc/uml",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/doc/developer_guide/src/uml/project.puml",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/geo/src/GEOTankBottomHeightReference.h",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/geo/src/GEOTankBottomHeightReference.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/src/AlignmentWizard.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/geo/src/UnitTextFormatterTester.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/geo/src/MathUnitText.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/geo/src/GEOScalarExtentsTester.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/geo/src/GEOScalarExtents.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/build.gradle",
+		"/C/Projects/TankSludgeProfiler-SVN/python/generate_beamfile.py",
+		"/X/Dropbox/Administratie/2019/woz_bezwaar/vergelijk.txt",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/src/UndoChangeTankProperties.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/project/win32/projecttester.vcxproj",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/AHakQtWidgets/src/QUnitValueLabel.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/TankSludgeProfiler/src/UndoChangeTankPropertiesTester.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/setup_env.bat",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsController.cpp",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsController.h",
+		"/C/Projects/TankSludgeProfiler-SVN/Libs/modelcontroller/src/ScanLifetimeObserver.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/project/test/beamdata.bin",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/project/test/makebeamamplitudes.bin",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/ThirdPartyLibraries/build.gradle",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/ThirdPartyLibraries/poco/build.gradle",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/ThirdPartyLibraries/buildSrc/src/main/groovy/VisualStudioBuild.groovy",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/build.gradle",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/win32/geotester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/project/test/archiver/Tank.tspxml",
+		"/X/Dropbox/Private/PasswordRecovery/facebook.txt",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/tools/copydesignerplugin.bat",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/project/win32/projecttester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Installer/Installer.wixproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Installer/version.wxi",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/tools/getversion.ps1",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Installer/nameversion.ps1",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/ThirdPartyLibraries/gradle/wrapper/gradle-wrapper.properties",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/README",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Installer/createversionfile.ps1",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Win32-Release/version.txt",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Installer/build.txt",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/start_visual_studio.bat",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/gradle/wrapper/gradle-wrapper.properties",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOGridHeightReference.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOTankBottomHeightReference.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOTankBottomHeightReference.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOGridHeightReference.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOGridHeightReferenceTester.cpp",
+		"/G/Temp/05-03-2013_11-01-23 - processed.org/settings.ui",
+		"/C/Users/sytse/Intero/TankSludgeProfiler/application.cfg",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/src/PreferencesDialog.cpp",
+		"/G/Temp/05-03-2013_11-01-23 - processed.org/ProjectSettings.sxml",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/win32/geo.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOTankBottomHeightReferenceTester.cpp",
+		"/C/Users/sytse/mercurial.ini",
+		"/D/Mercurial/hgpivotal/hgpivotal.py",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOGridFile.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOGridFile.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/geo/src/GEOGridFileTester.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/ProfileController.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/ProfileController.cpp",
+		"/C/Users/sytse/HIS/TankSludgeProfiler/application.cfg",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/PropertySheets/Common.props",
+		"/G/Temp/05-03-2013_11-01-23 - processed.org/Tank-05-03-2013_11-01-23.tspxml",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/doc/modelupdate_seq.puml",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/GridController.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/PointGeometryEditorModel.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsController.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsController.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsControllerTester.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsModel.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsModel.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/src/TankPointsModelTester.cpp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/CodeAnalysis/cppcheck_suppress.txt",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/src/testGeneratedFiles/ui_ProjectCreatorDialog.h",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/CodeAnalysis/CodeAnalysys.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Installer/bin/Release/bla.txt",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/src/tanksludgeprofiler.qrc",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/src/tanksludgeprofiler.qhcp",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/src/ProjectCreatorDialog.ui",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/src/ProcessingQueueDialog.ui",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/CodeAnalysis/Makefile",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/bla.bat",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/poco/build.gradle",
+		"/D/Softsyde/HIS/CleanBuild/start_visual_studio.bat",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/PropertySheets/MKL.props",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Win32/TankSludgeProfilerTester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/TankSludgeProfiler/Win32/TankSludgeProfiler.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/utilities/win32/utilitiestester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/task/win32/tasktester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/modelcontroller/win32/modelcontrollertester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/AHakQtWidgets/Win32/AHakQtWidgetTester.vcxproj",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/AHakQtWidgets/Win32/AHakQtWidgets.vcxproj",
+		"/D/Moog/TCUDevelopment/Tools/VS2013/Common.props",
+		"/D/Moog/TCUDevelopment/TCUFirmware/build.gradle",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util_vs120.log",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/CL.read.1.tlog",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/CL.write.1.tlog",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/link.command.1.tlog",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/link.read.1.tlog",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/link.write.1.tlog",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/unsuccessfulbuild",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/Util.lastbuildstate",
+		"/D/Softsyde/HIS/CleanBuild/ThirdPartyLibraries/build/poco/Util/obj/Util/debug_shared/Util.tlog/cl.command.1.tlog",
+		"/D/Moog/TCUDevelopment/Tools/VS2015/CoreLibraries.props",
+		"/D/Moog/TCUDevelopment/Tools/VS2015/Common.props",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/Libs/AHakQtWidgets/Win32/AHakQtWidgets.vcxproj.user",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/PropertySheets/QT.props",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/PropertySheets/LibCommon.props",
+		"/D/Softsyde/HIS/TankSludgeProfiler-SVN/PropertySheets/DebugEnvironment.props"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.UnitTesting":
+	{
+		"height": 284.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"book-example\\src\\format\\config.md"
+			],
+			[
+				"scanbin",
+				"Libs\\project\\src\\ScanBinFileLoader.cpp"
+			],
+			[
+				"GEOScalarExtentsTester.cpp",
+				"Libs\\geo\\src\\GEOScalarExtentsTester.cpp"
+			],
+			[
+				"ScalarEx",
+				"Libs\\geo\\src\\GEOScalarExtents.cpp"
+			],
+			[
+				"UnitTextFormatterTester",
+				"Libs\\geo\\src\\UnitTextFormatterTester.cpp"
+			],
+			[
+				"build.grad",
+				"build.gradle"
+			],
+			[
+				"align",
+				"TankSludgeProfiler\\src\\AlignmentWizard.cpp"
+			],
+			[
+				"geobottom",
+				"Libs\\geo\\src\\GEOTankBottomHeightReference.cpp"
+			],
+			[
+				"setupenv",
+				"setup_env.bat"
+			],
+			[
+				"undochan",
+				"TankSludgeProfiler\\src\\UndoChangeTankProperties.cpp"
+			],
+			[
+				"undochang",
+				"TankSludgeProfiler\\src\\UndoChangeTankPropertiesTester.cpp"
+			],
+			[
+				"ndochangta",
+				"TankSludgeProfiler\\src\\UndoChangeTankPropertiesTester.cpp"
+			],
+			[
+				"geoscala",
+				"Libs\\geo\\src\\GEOScalarExtents.cpp"
+			],
+			[
+				"TankPoins",
+				"Libs\\modelcontroller\\src\\TankPointsController.cpp"
+			],
+			[
+				"projectt",
+				"Libs\\project\\win32\\projecttester.vcxproj"
+			],
+			[
+				"version.txt",
+				"Win32-Release\\version.txt"
+			],
+			[
+				"GEOGridHeightReference.cpp",
+				"Libs\\geo\\src\\GEOGridHeightReference.cpp"
+			],
+			[
+				"Prefere",
+				"TankSludgeProfiler\\src\\PreferencesDialog.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
