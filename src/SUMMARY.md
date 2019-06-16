@@ -1,6 +1,6 @@
 # Summary
 
-* [GIT](./git/working_with_forks.md)
+* [GIT](./git/README.md)
 * [Programming](./programming/README.md)
   * [Rust](./programming/rust/README.md)
 	* [Setup](./programming/rust/setup.md)

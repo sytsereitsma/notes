@@ -6,7 +6,7 @@ After forking the repo and cloning it we need to add the upstream (original repo
 ```git remote add upstream <url>```
 
 ## Making changes
-Create a new branch and make your changes"
+Create a new branch and make your changes
 
 ```
 git checkout master
