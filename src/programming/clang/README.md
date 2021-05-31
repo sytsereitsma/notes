@@ -1,4 +1,4 @@
 # My CLANG notes
 
-- [Creating a compilation database](./create_database.md)
+- [The compilation database](./compilation_database.md)
 - [Using clang tidy](./clang_tidy.md)
